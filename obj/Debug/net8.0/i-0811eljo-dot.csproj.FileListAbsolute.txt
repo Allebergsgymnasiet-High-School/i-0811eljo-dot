@@ -1,0 +1,15 @@
+/workspaces/i-0811eljo-dot/bin/Debug/net8.0/i-0811eljo-dot
+/workspaces/i-0811eljo-dot/bin/Debug/net8.0/i-0811eljo-dot.deps.json
+/workspaces/i-0811eljo-dot/bin/Debug/net8.0/i-0811eljo-dot.runtimeconfig.json
+/workspaces/i-0811eljo-dot/bin/Debug/net8.0/i-0811eljo-dot.dll
+/workspaces/i-0811eljo-dot/bin/Debug/net8.0/i-0811eljo-dot.pdb
+/workspaces/i-0811eljo-dot/obj/Debug/net8.0/i-0811eljo-dot.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/i-0811eljo-dot/obj/Debug/net8.0/i-0811eljo-dot.AssemblyInfoInputs.cache
+/workspaces/i-0811eljo-dot/obj/Debug/net8.0/i-0811eljo-dot.AssemblyInfo.cs
+/workspaces/i-0811eljo-dot/obj/Debug/net8.0/i-0811eljo-dot.csproj.CoreCompileInputs.cache
+/workspaces/i-0811eljo-dot/obj/Debug/net8.0/i-0811eljo-dot.sourcelink.json
+/workspaces/i-0811eljo-dot/obj/Debug/net8.0/i-0811eljo-dot.dll
+/workspaces/i-0811eljo-dot/obj/Debug/net8.0/refint/i-0811eljo-dot.dll
+/workspaces/i-0811eljo-dot/obj/Debug/net8.0/i-0811eljo-dot.pdb
+/workspaces/i-0811eljo-dot/obj/Debug/net8.0/i-0811eljo-dot.genruntimeconfig.cache
+/workspaces/i-0811eljo-dot/obj/Debug/net8.0/ref/i-0811eljo-dot.dll
